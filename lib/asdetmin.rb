@@ -1,5 +1,3 @@
-require "asdetmin/version"
-
-module Asdetmin
-  # Your code goes here...
-end
+require 'asdetmin/version'
+require 'asdetmin/router'
+require 'asdetmin/controller'
